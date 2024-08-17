@@ -59,7 +59,3 @@ The `Scoreboard` class tracks and displays the score for both players. The score
 - Add a feature to track high scores.
 - Implement a difficulty setting to adjust the ball speed.
 - Improve the graphics and user interface.
-
-## License
-
-This project is licensed under the MIT License.
